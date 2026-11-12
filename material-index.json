@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/demand.json",
+    "sha256": "0403f8c4b024abdb17a1f1b7bf93cf21331e1b0aa3124753ee1cd6cfedc446ad",
+    "size_bytes": 310
+  },
+  {
+    "path": "fixtures/intervals.csv",
+    "sha256": "3d4482f7486c063fd5a714d984ad76d41bb9ed0f3d172e8409e455212e1104da",
+    "size_bytes": 64
+  }
+]

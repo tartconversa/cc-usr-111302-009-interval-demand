@@ -1,0 +1,15 @@
+{
+  "nonnegative_support": true,
+  "interval_convention": "(L,R]",
+  "prices": [
+    5,
+    10,
+    20
+  ],
+  "likelihood_tolerance": 1e-08,
+  "kkt_tolerance": 1e-08,
+  "max_iterations": 2000,
+  "bootstrap_repeats": 200,
+  "seed": 11130209,
+  "tail_scope": "likelihood_optimal_mass_and_within_cell_position"
+}
